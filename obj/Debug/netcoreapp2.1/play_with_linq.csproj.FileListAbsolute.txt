@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\bin\Debug\netcoreapp2.1\play_with_linq.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\bin\Debug\netcoreapp2.1\play_with_linq.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\bin\Debug\netcoreapp2.1\play_with_linq.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\bin\Debug\netcoreapp2.1\play_with_linq.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\bin\Debug\netcoreapp2.1\play_with_linq.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_linq\obj\Debug\netcoreapp2.1\play_with_linq.pdb
